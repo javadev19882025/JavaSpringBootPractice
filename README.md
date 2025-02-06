@@ -10,7 +10,7 @@ This is a simple Spring Boot application demonstrating RESTful API development. 
 ## Getting Started
 1. Clone the repository  
 2. Run `mvn spring-boot:run`  
-3. Access API at `http://localhost:8080/api`  
+3. Access API at `http://localhost:8080/`  
 
 ## Requirements
 - Java 17+  
