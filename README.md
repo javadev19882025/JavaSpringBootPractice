@@ -15,3 +15,5 @@ This is a simple Spring Boot application demonstrating RESTful API development. 
 ## Requirements
 - Java 17+  
 - Maven  
+- PostMan
+- My SQL
