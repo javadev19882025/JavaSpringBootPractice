@@ -68,7 +68,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.jpa_create.Bootjpaexample2Application</mainClass>
+                    <mainClass>com.jpa_create.objectuser.Bootjpaexample2Application</mainClass>
                 </configuration>
             </plugin>
         </plugins>
