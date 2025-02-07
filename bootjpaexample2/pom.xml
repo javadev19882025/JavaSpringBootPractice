@@ -67,7 +67,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.jpa_update.user.Bootjpaupdateexample2Application</mainClass>
+                    <mainClass>com.jpa.test.two.Bootjpaviewexample2Application</mainClass>
                 </configuration>
             </plugin>
         </plugins>
